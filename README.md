@@ -1,5 +1,7 @@
 # Learning‑Material
 
+![In Development](https://img.shields.io/badge/In%20Development-Active-yellow?style=flat-square)
+
 A curated collection of Cyber Threat Intelligence (CTI) reference documents designed to help analysts, SOC teams, and vulnerability managers strengthen their understanding of modern triage, scoring, and prioritization workflows. This repository serves as a centralized knowledge base for high‑value, analyst‑ready material that simplifies complex security concepts into practical guidance.
 
 ---
